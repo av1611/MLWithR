@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521552045375.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "119037424",
+    "id" : "CC6CC9A9",
+    "lastKnownWriteTime" : 1521552064,
+    "last_content_update" : 1521552064560,
+    "path" : "C:/Dropbox/Github/MLWithR/R/MLwR_v2_10.r",
+    "project_path" : "R/MLwR_v2_10.r",
+    "properties" : {
+        "cursorPosition" : "149,25",
+        "scrollLine" : "144"
+    },
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
